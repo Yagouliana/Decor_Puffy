@@ -1,0 +1,257 @@
+[
+  {
+    "cadastro": {
+      "nome": "Ana Souza",
+      "email": "ana.souza@email.com",
+      "senha": "Ana@1234",
+      "telefone": "(11) 99876-5432",
+      "cpf": "111.222.333-44",
+      "endereco": {
+        "rua": "Rua Primavera",
+        "numero": "45",
+        "bairro": "Jardins",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "cep": "01455-000"
+      }
+    }
+  },
+  {
+    "cadastro": {
+      "nome": "Bruno Mendes",
+      "email": "bruno.mendes@email.com",
+      "senha": "Bruno456!",
+      "telefone": "(21) 91234-5678",
+      "cpf": "222.333.444-55",
+      "endereco": {
+        "rua": "Av. Brasil",
+        "numero": "789",
+        "bairro": "Copacabana",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "cep": "22040-001"
+      }
+    }
+  },
+  {
+    "cadastro": {
+      "nome": "Carla Dias",
+      "email": "carla.dias@email.com",
+      "senha": "carla!2025",
+      "telefone": "(31) 98877-1122",
+      "cpf": "333.444.555-66",
+      "endereco": {
+        "rua": "Rua das Rosas",
+        "numero": "102",
+        "bairro": "Centro",
+        "cidade": "Belo Horizonte",
+        "estado": "MG",
+        "cep": "30130-002"
+      }
+    }
+  },
+  {
+    "cadastro": {
+      "nome": "Diego Martins",
+      "email": "diego.m@email.com",
+      "senha": "Diego2023@",
+      "telefone": "(41) 99788-2233",
+      "cpf": "444.555.666-77",
+      "endereco": {
+        "rua": "Rua Curitiba",
+        "numero": "200",
+        "bairro": "Batel",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "cep": "80420-230"
+      }
+    }
+  },
+  {
+    "cadastro": {
+      "nome": "Eduarda Rocha",
+      "email": "eduarda.rocha@email.com",
+      "senha": "Edu@4567",
+      "telefone": "(51) 98444-5566",
+      "cpf": "555.666.777-88",
+      "endereco": {
+        "rua": "Rua da Alegria",
+        "numero": "12",
+        "bairro": "Centro Histórico",
+        "cidade": "Porto Alegre",
+        "estado": "RS",
+        "cep": "90010-123"
+      }
+    }
+  },
+  {
+    "cadastro": {
+      "nome": "Fernanda Lima",
+      "email": "fernanda.lima@email.com",
+      "senha": "F3rnandaL!",
+      "telefone": "(62) 99123-4567",
+      "cpf": "666.777.888-99",
+      "endereco": {
+        "rua": "Av. T-63",
+        "numero": "303",
+        "bairro": "Setor Bueno",
+        "cidade": "Goiânia",
+        "estado": "GO",
+        "cep": "74230-000"
+      }
+    }
+  },
+  {
+    "cadastro": {
+      "nome": "Gabriel Teixeira",
+      "email": "gabriel.t@email.com",
+      "senha": "G4briel@321",
+      "telefone": "(81) 98888-9999",
+      "cpf": "777.888.999-00",
+      "endereco": {
+        "rua": "Rua do Sol",
+        "numero": "88",
+        "bairro": "Boa Viagem",
+        "cidade": "Recife",
+        "estado": "PE",
+        "cep": "51020-001"
+      }
+    }
+  },
+  {
+    "cadastro": {
+      "nome": "Helena Borges",
+      "email": "helena.borges@email.com",
+      "senha": "helena#2024",
+      "telefone": "(71) 98234-5678",
+      "cpf": "888.999.000-11",
+      "endereco": {
+        "rua": "Av. Oceânica",
+        "numero": "101",
+        "bairro": "Barra",
+        "cidade": "Salvador",
+        "estado": "BA",
+        "cep": "40140-130"
+      }
+    }
+  },
+  {
+    "cadastro": {
+      "nome": "Igor Alves",
+      "email": "igor.alves@email.com",
+      "senha": "Ig0r@Secure",
+      "telefone": "(95) 99111-2233",
+      "cpf": "999.000.111-22",
+      "endereco": {
+        "rua": "Rua Rio Branco",
+        "numero": "56",
+        "bairro": "Centro",
+        "cidade": "Boa Vista",
+        "estado": "RR",
+        "cep": "69301-020"
+      }
+    }
+  },
+  {
+    "cadastro": {
+      "nome": "Juliana Carvalho",
+      "email": "juliana.c@email.com",
+      "senha": "JuliC@2022",
+      "telefone": "(82) 98765-4321",
+      "cpf": "000.111.222-33",
+      "endereco": {
+        "rua": "Av. Fernandes Lima",
+        "numero": "210",
+        "bairro": "Farol",
+        "cidade": "Maceió",
+        "estado": "AL",
+        "cep": "57051-000"
+      }
+    }
+  },
+  {
+    "cadastro": {
+      "nome": "Kleber Nogueira",
+      "email": "kleber.n@email.com",
+      "senha": "kleb@2023!",
+      "telefone": "(27) 99876-5432",
+      "cpf": "123.321.456-78",
+      "endereco": {
+        "rua": "Rua Vitória",
+        "numero": "77",
+        "bairro": "Praia do Canto",
+        "cidade": "Vitória",
+        "estado": "ES",
+        "cep": "29055-600"
+      }
+    }
+  },
+  {
+    "cadastro": {
+      "nome": "Larissa Melo",
+      "email": "larissa.melo@email.com",
+      "senha": "Lar@Mel01",
+      "telefone": "(84) 99887-6655",
+      "cpf": "321.654.987-00",
+      "endereco": {
+        "rua": "Rua das Árvores",
+        "numero": "33",
+        "bairro": "Tirol",
+        "cidade": "Natal",
+        "estado": "RN",
+        "cep": "59020-400"
+      }
+    }
+  },
+  {
+    "cadastro": {
+      "nome": "Marcelo Farias",
+      "email": "marcelo.f@email.com",
+      "senha": "MarcelF@!",
+      "telefone": "(47) 99888-3322",
+      "cpf": "654.987.321-00",
+      "endereco": {
+        "rua": "Rua Blumenau",
+        "numero": "500",
+        "bairro": "Garcia",
+        "cidade": "Blumenau",
+        "estado": "SC",
+        "cep": "89020-000"
+      }
+    }
+  },
+  {
+    "cadastro": {
+      "nome": "Nathalia Costa",
+      "email": "nathalia.costa@email.com",
+      "senha": "Nathy@Secure",
+      "telefone": "(98) 99123-9090",
+      "cpf": "789.123.456-01",
+      "endereco": {
+        "rua": "Av. Beira-Mar",
+        "numero": "650",
+        "bairro": "Ponta d'Areia",
+        "cidade": "São Luís",
+        "estado": "MA",
+        "cep": "65075-000"
+      }
+    }
+  },
+  {
+    "cadastro": {
+      "nome": "Otávio Ramos",
+      "email": "otavio.r@email.com",
+      "senha": "Otav#123",
+      "telefone": "(96) 98712-3344",
+      "cpf": "987.654.321-10",
+      "endereco": {
+        "rua": "Rua Amazonas",
+        "numero": "401",
+        "bairro": "Trem",
+        "cidade": "Macapá",
+        "estado": "AP",
+        "cep": "68900-072"
+      }
+    }
+  }
+]

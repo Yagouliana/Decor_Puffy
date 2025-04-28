@@ -1,0 +1,92 @@
+[
+  {
+    "login": {
+      "email": "felipe@email.com",
+      "senha": "senhaSegura123"
+    }
+  },
+  {
+    "login": {
+      "email": "ana.souza@email.com",
+      "senha": "ana2024@"
+    }
+  },
+  {
+    "login": {
+      "email": "joao.mendes@email.com",
+      "senha": "Joao#123"
+    }
+  },
+  {
+    "login": {
+      "email": "carla.pereira@email.com",
+      "senha": "carla!456"
+    }
+  },
+  {
+    "login": {
+      "email": "lucas_oliveira@email.com",
+      "senha": "lucas789@"
+    }
+  },
+  {
+    "login": {
+      "email": "mariana.lima@email.com",
+      "senha": "MariLima@2025"
+    }
+  },
+  {
+    "login": {
+      "email": "paulo.silva@email.com",
+      "senha": "paulo_123"
+    }
+  },
+  {
+    "login": {
+      "email": "juliana.castro@email.com",
+      "senha": "juli@Castro"
+    }
+  },
+  {
+    "login": {
+      "email": "bruno.martins@email.com",
+      "senha": "brunoMartins2023"
+    }
+  },
+  {
+    "login": {
+      "email": "laura.fernandes@email.com",
+      "senha": "lauraF@89"
+    }
+  },
+  {
+    "login": {
+      "email": "vinicius.almeida@email.com",
+      "senha": "Vinicius#"
+    }
+  },
+  {
+    "login": {
+      "email": "sabrina.rocha@email.com",
+      "senha": "sabrina123"
+    }
+  },
+  {
+    "login": {
+      "email": "diego.santos@email.com",
+      "senha": "dieg0Sant0s!"
+    }
+  },
+  {
+    "login": {
+      "email": "nathalia.melo@email.com",
+      "senha": "nathy@2022"
+    }
+  },
+  {
+    "login": {
+      "email": "rafael.coelho@email.com",
+      "senha": "RafaCoelho$"
+    }
+  }
+]
